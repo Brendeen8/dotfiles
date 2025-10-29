@@ -1,8 +1,11 @@
 Bijective
 Bitwise
+CDF
+Chebychev's
 Codmain
 Codomain
 Combinatorically
+De
 Dystopianism
 Frievald's
 Inclusivity
@@ -10,6 +13,7 @@ Injective
 Loebner
 Monotonicity
 Panopticon
+Personalization
 Preprocess
 Simondon's
 Surjective
@@ -18,4 +22,4 @@ injective
 multinomial
 nums
 surjective
-checksum_v1 = cccbc67e0cbd9fd14c7e2ed36a6ed86a
+checksum_v1 = 273b068806d2bab0945fb095edb31668
