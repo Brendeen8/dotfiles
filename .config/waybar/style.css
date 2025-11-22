@@ -87,7 +87,10 @@ window#waybar.hidden {
 }
 
 #memory {
-  background-color: #fab387;
+  background-color: #1e1e2e;
+  opacity: 0.8;
+  color: #cdd6f4;
+
 }
 
 #battery {

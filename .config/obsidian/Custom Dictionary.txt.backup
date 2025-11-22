@@ -1,5 +1,6 @@
 Bijective
 Bitwise
+CDF
 Chebychev's
 Codmain
 Codomain
@@ -7,18 +8,27 @@ Combinatorically
 De
 Dystopianism
 Frievald's
+Heartbleed
+Hyperthreading
 Inclusivity
 Injective
 Loebner
+MGF
+Metcalfe's
 Monotonicity
+PMF
 Panopticon
 Personalization
+Pipelining
 Preprocess
 Simondon's
+Superscalar
 Surjective
 codomain
 injective
+mispredicts
 multinomial
 nums
+pipelining
 surjective
-checksum_v1 = 02d158ba430f4642e2daa99ac00ab916
+checksum_v1 = 9bc27edc88e76bc77591edd9d9fb4fa5

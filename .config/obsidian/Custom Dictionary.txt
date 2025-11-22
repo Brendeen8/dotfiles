@@ -8,18 +8,28 @@ Combinatorically
 De
 Dystopianism
 Frievald's
+Heartbleed
+Hyperthreading
 Inclusivity
 Injective
 Loebner
+MGF
+Metcalfe's
 Monotonicity
+PMF
 Panopticon
 Personalization
+Pipelining
 Preprocess
 Simondon's
+Superscalar
 Surjective
 codomain
 injective
+mispredicted
+mispredicts
 multinomial
 nums
+pipelining
 surjective
-checksum_v1 = 273b068806d2bab0945fb095edb31668
+checksum_v1 = 04542732ec5bb225d978dab93ea756a1
