@@ -1,3 +1,6 @@
-2026/05/11-02:51:26.955 e5c7 Reusing MANIFEST /home/brendan/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
-2026/05/11-02:51:26.969 e5c7 Recovering log #25
-2026/05/11-02:51:26.970 e5c7 Reusing old log /home/brendan/.config/obsidian/Local Storage/leveldb/000025.log 
+2026/05/22-14:02:25.554 2a59 Reusing MANIFEST /home/brendan/.config/obsidian/Local Storage/leveldb/MANIFEST-000001
+2026/05/22-14:02:25.566 2a59 Recovering log #25
+2026/05/22-14:02:25.567 2a59 Reusing old log /home/brendan/.config/obsidian/Local Storage/leveldb/000025.log 
+2026/05/23-01:21:31.886 2ada Level-0 table #29: started
+2026/05/23-01:21:31.889 2ada Level-0 table #29: 8582 bytes OK
+2026/05/23-01:21:31.891 2ada Delete type=0 #25

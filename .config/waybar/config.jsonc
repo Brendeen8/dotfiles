@@ -57,6 +57,7 @@
         "spacing": 10
     },
     "clock": {
+        "timezone": "Canada/Pacific",
         "tooltip-format": "{calendar}",
         "format-alt": "[  {:%a, %d %b %Y}  ]",
         "format": "[  {:%I:%M %p | %m/%d/%Y}  ]"
